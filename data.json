@@ -1,0 +1,52 @@
+[
+    {
+        "name": "C2 - CƠM GÀ GIÒN + SÚP BÍ ĐỎ + NƯỚC NGỌT LỚN",
+        "price": "63000",
+        "description": "C2 - CƠM GÀ GIÒN + SÚP BÍ ĐỎ + NƯỚC NGỌT LỚN",
+        "quantity": 1,
+        "imageUrl": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/c/o/com_ga_sup_nc_1.png"
+    },
+    {
+        "name": "CƠM GÀ GIÒN",
+        "price": "48000",
+        "description": "1 MIẾNG GÀ GIÒN, CƠM VÀ XÀ LÁCH",
+        "quantity": 1,
+        "imageUrl": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/6/d/6d2e290195e851-cmggin_1_2.png"
+    },
+    {
+        "name": "2 MIẾNG GÀ GIÒN",
+        "price": "66000",
+        "description": "2 MIẾNG GÀ GIÒN",
+        "quantity": 1,
+        "imageUrl": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/d/1/d1834d87116836-2mingggin_1.png"
+    },
+    {
+            "name": "6 MIẾNG GÀ GIÒN",
+            "price": "188000",
+            "description": "6 MIẾNG GÀ GIÒN",
+            "quantity": 1,
+            "imageUrl": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/e/e/ee8e7512368728-6mingggin_1.png"
+        },
+        {
+            "name": "2 MIẾNG GÀ GIÒN + KHOAI TÂY VỪA + NƯỚC NGỌT LỚN",
+            "price": "91000",
+            "description": "2 MIẾNG GÀ GIÒN + KHOAI TÂY VỪA + NƯỚC NGỌT LỚN",
+            "quantity": 1,
+            "imageUrl": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/2/_/2_ga_gion_khoai_nc.png"
+        },
+        {
+            "name": "CƠM GÀ GIÒN + PEPSI LỚN",
+            "price": "58000",
+            "description": "CƠM GÀ GIÒN + PEPSI LỚN",
+            "quantity": 1,
+            "imageUrl": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/c/_/c_m_g_n_c.png"
+        },
+        {
+            "name": "1 MIẾNG GÀ GIÒN + KHOAI TÂY VỪA + NƯỚC NGỌT LỚN",
+            "price": "58000",
+            "description": "1 MIẾNG GÀ GIÒN + KHOAI TÂY VỪA + NƯỚC NGỌT LỚN",
+            "quantity": 1,
+            "imageUrl": "https://jollibee.com.vn/media/catalog/product/cache/9011257231b13517d19d9bae81fd87cc/1/_/1_ga_gion_khoai_nc.png"
+        }
+
+]
