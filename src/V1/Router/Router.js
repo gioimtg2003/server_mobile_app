@@ -7,6 +7,7 @@ const authController = require("../../Controllers/AuthControllers");
 const CategoryController = require("../../Controllers/CategoryController");
 const OrderController = require('../../Controllers/OrderController');
 const UserCommentProductController = require('../../Controllers/Product.Comment.Controller');
+const UserController = require('../../Controllers/UserController');
 function initRouter(){
    
     // router.get("/", productController.getAllProducts); 
@@ -27,7 +28,7 @@ function initRouter(){
     router.post("/create/order", OrderController.createOrder);
     //Router for Comment
     router.post("/create/comment", UserCommentProductController.CreateProductComment);
-
+    router.get("/user/order/:userId", UserController.getOrderByUserId);
     return router;
 }
 
